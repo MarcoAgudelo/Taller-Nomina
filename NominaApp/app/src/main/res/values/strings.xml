@@ -1,0 +1,39 @@
+<resources>
+
+    <string name="app_name">NominaApp</string>
+
+    <string name="salario_basico">Salario básico</string>
+    <string name="horas_diurnas">Horas extra diurnas</string>
+    <string name="horas_nocturnas">Horas extra nocturnas</string>
+
+    <string name="domingo_festivo">Trabajo en domingo o festivo</string>
+    <string name="transporte_empresa">La empresa suministra transporte</string>
+
+    <string name="calcular">Calcular</string>
+    <string name="limpiar">Limpiar</string>
+
+    <string name="devengado">Devengado</string>
+    <string name="deducciones">Deducciones</string>
+
+    <string name="valor_hora">Valor hora</string>
+    <string name="salario_basico_resultado">Salario básico</string>
+    <string name="horas_extra">Total horas extra</string>
+    <string name="auxilio_transporte">Auxilio de transporte</string>
+    <string name="total_devengado">Total devengado</string>
+
+    <string name="salud">Aporte salud</string>
+    <string name="pension">Aporte pensión</string>
+    <string name="fondo_solidaridad">Fondo de solidaridad</string>
+    <string name="total_deducciones">Total deducciones</string>
+
+    <string name="salario_neto">Salario neto</string>
+
+    <string name="texto_rango_1">Rango 1: hasta 2 SMMLV</string>
+    <string name="texto_rango_2">Rango 2: entre 2 y 4 SMMLV</string>
+    <string name="texto_rango_3">Rango 3: 4 SMMLV o más</string>
+
+    <string name="descripcion_rango_1">Imagen representativa del rango salarial 1</string>
+    <string name="descripcion_rango_2">Imagen representativa del rango salarial 2</string>
+    <string name="descripcion_rango_3">Imagen representativa del rango salarial 3</string>
+
+</resources>
